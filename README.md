@@ -14,7 +14,7 @@
 
 
 	dependencies {
-    	      implementation 'com.github.xinyangcuncun:GodRefreshLayout:Tag'
+    	      implementation 'com.github.xinyangcuncun:GodRefreshLayout:V1.0.0'
     	}
 
 ~~~
