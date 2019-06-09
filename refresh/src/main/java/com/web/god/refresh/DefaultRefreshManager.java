@@ -11,6 +11,7 @@ public class DefaultRefreshManager extends BaseRefreshManager{
 
     private TextView mTvRefresh;
 
+
     public DefaultRefreshManager(Context context) {
         super(context);
     }
